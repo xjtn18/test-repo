@@ -4,8 +4,8 @@ def main():
     print("Line from local 1")
     print("Line from local 2")
     print("STUFF from local 1")
-    print("11111111")
-    print("reverta williams!")
+    print("jacob nardone jacob nardone jacob nardon")
+    print("oh my..")
 
 
 main()
