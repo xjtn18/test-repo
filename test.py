@@ -6,6 +6,12 @@ def main():
      
 
     print("The covenant, if it were so easy")
+    print("Coogler")
+    print(" :) ")
+    print("----- residents evil ?_-  --------")
 
 
 main()
+
+
+doesnt_exist()
