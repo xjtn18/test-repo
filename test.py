@@ -9,6 +9,11 @@ def main():
     print("------!!!!!!!!_----------------")
 
     print("Coogler")
+    print(" :) ")
+    print("----- residents evil ?_-  --------")
 
 
 main()
+
+
+doesnt_exist()
