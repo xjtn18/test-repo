@@ -12,7 +12,6 @@ def zain(a : int):
     print("ODST")
 >>>>>>> Stashed changes
     print(" :) ")
-    print("----- residents evil ?_-  --------")
     print("----- covenents ?_-  --------")
 
 
